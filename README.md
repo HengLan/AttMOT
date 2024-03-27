@@ -1,3 +1,3 @@
-## <p align="center">AttMOT: Improving Multiple-Object Tracking by Introducing <br> Auxiliary Pedestrian Attributes</p>
+## AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes
 
 More details will be coming ...
