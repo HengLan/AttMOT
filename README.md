@@ -4,7 +4,12 @@
 Yunhao Li, Zhen Xiao, Lin Yang, Dan Meng, Heng Fan, Libo Zhang <br>
 [`arXiv`](https://arxiv.org/abs/2308.07537) `Dataset`
 
-Figure: We introduce AttMOT, a large, highly enriched synthetic dataset for pedestrian tracking, containing over 80k frames and 6 million pedestrian IDs with different time, weather conditions, and scenarios. To the best of our knowledge, AttMOT is the first MOT dataset with semantic attributes.
+![examples](assets/examples.png) <br>
+**Figure**: We introduce AttMOT, a large, highly enriched synthetic dataset for pedestrian tracking, containing over 80k frames and 6 million pedestrian IDs with different time, weather conditions, and scenarios. To the best of our knowledge, AttMOT is the first MOT dataset with semantic attributes.
+
+### 📷 Attribute Samples
+![samples](assets/samples.png) <br>
+**Figure**: Visualization of several attribute annotation examples in the proposed AttMOT.
 
 ### 🚩 Usage
 🔹 👉 **Organization**
