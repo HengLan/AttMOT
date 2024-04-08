@@ -14,9 +14,9 @@ Yunhao Li, Zhen Xiao, Lin Yang, Dan Meng, Heng Fan, Libo Zhang <br>
 ### 🚩 Usage
 🔹 👉 **Organization**
 
-AttMOT images and annotations are organized as follows:
+Due to the large data size, we split VastTrack into multiple Zip files. Each file has the following organization:
 ``` text
-AttMOT
+part-01.zip
 ├── seq_001
 │   └── det.txt
 │   └── feature.txt
@@ -24,6 +24,9 @@ AttMOT
 │   └── 0.jpg
 │   └── 1.jpg
 │   └── 2.jpg
+|   ...
+part-02.zip
+├── seq_101
 |   ...
 ...
 ```
