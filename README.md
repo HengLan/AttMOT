@@ -55,7 +55,7 @@ AttMOT does not include a test set. Therefore, models trained on it are typicall
 @article{li2024attmot,
         title={AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes},
         author={Li, Yunhao and Zhen, Xiao and Yang, Lin and Meng, Dan and Fan, Heng and Zhang, Libo},
-        journal={TNNLS},
+        journal={IEEE Transactions on Neural Networks and Learning Systems},
         year={2024}
 }
 ```
