@@ -1,0 +1,2 @@
+sleep 7200s
+python train.py mot --exp_id crowdhuman_gta_attr_03 --load_model '../models/crowdhuman_gta.pth' --data_cfg '../src/lib/cfg/gta-attr.json' --gpus 0,1 --print_iter 200 --save_all --num_epochs 20

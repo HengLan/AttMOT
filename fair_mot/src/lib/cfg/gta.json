@@ -1,0 +1,15 @@
+{
+    "root":"/data/JDE",
+    "train":
+    {
+        "gta":"./data/gta-detection.train"
+    },
+    "test_emb":
+    {
+        "mot17-val":"./data/mot17-val.train"
+    },
+    "test":
+    {
+        "mot17":"./data/mot17.train"
+    }
+}
