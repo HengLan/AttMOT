@@ -39,7 +39,7 @@ In each video folder, we provide the frames of the video, bounding box annotatio
 
 In [AttMOT](https://arxiv.org/abs/2308.07537) we utilized a dataset containing 450 sequences. Subsequently, for further research purposes, we designed datasets with a larger number of sequences. Therefore, here we provide download links for two different versions of the dataset：
 
-- The downloading link for the ```450-seqs version``` is here.
+- The downloading link for the ```450-seqs version``` is here: [baidu](https://pan.baidu.com/s/1gZsPRDwWZyAQTuUY7KIV4w) (code:g2aa)
 - The downloading link for the ```1800-seqs version``` is here.
 
 **Note**: Our dataset is a synthetic dataset, thus, it only consists of a training set and does not include a separate test set.
